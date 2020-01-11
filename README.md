@@ -2,6 +2,7 @@
 Paginação de registros  usando ReactJS e reactstrap.
 
 Instalar reactstrap: https://www.npmjs.com/package/reactstrap.
+
 Exemplo de como utilizar o componente: 
 
  <TabelaPaginacao
