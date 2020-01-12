@@ -1,5 +1,5 @@
 # PaginacaoReactJS
-Paginação de registros  usando ReactJS e reactstrap.
+Paginação de registros genéricos usando ReactJS e reactstrap.
 
 Instalar reactstrap: https://www.npmjs.com/package/reactstrap.
 
