@@ -7,11 +7,8 @@ Exemplo de como utilizar o componente:
 
  <TabelaPaginacao
     registrosPorPagina={5}
-    
-    espacoBotoesAcoes={130}
-    
-    fonteDeDados={listaClientes}
-    
+    espacoBotoesAcoes={130}   
+    fonteDeDados={listaClientes}  
     colunas={[
         {
             name: 'Nome Cliente',
@@ -21,8 +18,7 @@ Exemplo de como utilizar o componente:
             name: 'CPF',
             prop: "CPF",
         },
-    ]}
-    
+    ]}  
     acoes={[
         { nome: 'Editar', click: this.EditarCliente, class: "btn btn-primary", icone: "fas fa-edit" },
     ]}
