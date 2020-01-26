@@ -4,7 +4,8 @@ Paginação de registros genéricos usando ReactJS e reactstrap.
 Instalar reactstrap: https://www.npmjs.com/package/reactstrap.
 
 Propriedades do component:
-registrosPorPagina: Quantidade exibida por página
+
+registrosPorPagina: Quantidade exibida por página </br>
 espacoBotoesAcoes: Quantidade de pixels para setar um espaço de exibições de botões de ações
 fonteDeDados: Objeto JSON
 colunas: Propriedades das colunas que será criadas no grid
