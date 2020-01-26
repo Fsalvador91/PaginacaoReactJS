@@ -6,7 +6,6 @@ Instalar reactstrap: https://www.npmjs.com/package/reactstrap.
 Exemplo de como utilizar o componente: 
 
  <TabelaPaginacao
- 
     registrosPorPagina={5}
     
     espacoBotoesAcoes={130}
@@ -27,6 +26,5 @@ Exemplo de como utilizar o componente:
     acoes={[
         { nome: 'Editar', click: this.EditarCliente, class: "btn btn-primary", icone: "fas fa-edit" },
     ]}
-    
 />
 
