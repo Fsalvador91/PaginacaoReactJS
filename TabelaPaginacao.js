@@ -201,7 +201,7 @@ class TabelaPaginacao extends React.Component {
                                     {existeAcoes && (
                                         <td>
                                             {acoes.map(acao => (
-                                                <button to="/teste" key={acao.nome} onClick={() => acao.click(linha)} style={{ marginRight: 10 }} className={acao.class}>
+                                                <button key={acao.nome} onClick={() => acao.click(linha)} style={{ marginRight: 10 }} className={acao.class}>
                                                     <i className={acao.icone}></i>
                                                 </button>
                                             ))}
